@@ -7,3 +7,4 @@ paths = [
 ]
 - Đường dẫn PATH: chứa folder file đuối .rb
 - Đường dẫn paths: chứa folder toàn bộ plugin bao gồm file license tác giả 
+sau khi copy xong thì copy file reload_plugin.rb vào C:\Users\[TÊN MÁY TÍNH]\AppData\Roaming\SketchUp\SketchUp 202x\SketchUp\Plugins
