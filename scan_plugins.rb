@@ -25,7 +25,6 @@ require 'sketchup.rb'
 
 PATH = "E:/plug in vinh/vinharchi_tool"
 paths = [
-  # "E:/plug in vinh/vinharchi_tool",
 "E:/plug in vinh",
 ]
 
