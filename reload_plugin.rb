@@ -43,8 +43,8 @@ class DirScanner
 end
 
 
-if (not file_loaded?("scan_plugins.rb"))
+if (not file_loaded?("reload_plugin.rb"))
    DirScanner.new(PATH).scan
-   file_loaded("scan_plugins.rb")
+   file_loaded("reload_plugin.rb")
 end
 
